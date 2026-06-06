@@ -34,7 +34,7 @@ Somos uma equipe focada em criar projetos modernos, eficientes e personalizados.
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 
-**Gmail:** blacksolutions.oficial@gmail.com  
+**Gmail:** blacksolutionsoficial@gmail.com  
 **Discord:** Em Breve...
 
 </div>
