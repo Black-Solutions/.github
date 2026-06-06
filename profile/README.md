@@ -28,7 +28,7 @@ Somos uma equipe focada em criar projetos modernos, eficientes e personalizados.
 
 <div align="center">
 
-<a href="mailto:blacksolutions.oficial@gmail.com">
+<a href="mailto:blacksolutionsoficial@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 &nbsp;&nbsp;
