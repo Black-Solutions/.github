@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/Black-Solutions/.github/main/profile/logo.png" width="150">Black Solutions
+<div align="center"><img src="https://github.com/Black-Solutions/.github/blob/main/profile/logo.png" width="150">Black Solutions
 
 Desenvolvimento de Bots, Websites e Soluções Digitais
 
